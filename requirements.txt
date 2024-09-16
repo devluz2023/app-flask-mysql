@@ -1,0 +1,4 @@
+Flask
+flask_jwt_extended
+Flask-SQLAlchemy
+mysqlclient
